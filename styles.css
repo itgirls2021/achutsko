@@ -1,5 +1,7 @@
-body {color: palevioletred;}
-body {background-color: oldlace;}
-h1 {color: thistle; background-color: lightcoral}
-h2 {color: lightcoral;}
-a {color: lightcoral;}
+body {
+    color: darkslategray;
+    background-color: lavenderblush;
+}
+h1 {color: white; background-color: mediumvioletred}
+h2 {color: mediumvioletred;}
+a {color: mediumvioletred;}
