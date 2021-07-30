@@ -1,7 +1,21 @@
 body {
     color: darkslategray;
     background-color: lavenderblush;
+    font-family: Verdana, Geneva, Tahoma
 }
-h1 {color: white; background-color: mediumvioletred}
-h2 {color: mediumvioletred;}
-a {color: mediumvioletred;}
+h1 {
+    color: white;
+    background-color: mediumvioletred;
+    font-family: 'Space Mono', monospace;
+}
+h2 {
+    color: mediumvioletred;
+    font-family: 'Space Mono', monospace;
+}
+
+nav {background-color: slategrey;}
+
+nav a {color: white;}
+nav {color: white;}
+
+nav a:hover {background-color: gray;}
