@@ -1,16 +1,16 @@
 body {
     color: darkslategray;
     background-color: lavenderblush;
-    font-family: Verdana, Geneva, Tahoma
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
     color: white;
     background-color: mediumvioletred;
-    font-family: 'Space Mono', monospace;
+    font-family: 'Hahmlet', serif;
 }
 h2 {
     color: mediumvioletred;
-    font-family: 'Space Mono', monospace;
+    font-family: 'Hahmlet', serif;
 }
 
 nav {background-color: slategrey;}
