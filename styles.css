@@ -5,15 +5,15 @@ body {
 }
 h1 {
     color: white;
-    background-color: mediumvioletred;
+    background-color: black;
     font-family: 'Hahmlet', serif;
 }
 h2 {
-    color: mediumvioletred;
+    color: black;
     font-family: 'Hahmlet', serif;
 }
 
-nav {background-color: slategrey;}
+nav {background-color: gray;}
 
 nav a {color: white;}
 nav {color: white;}
