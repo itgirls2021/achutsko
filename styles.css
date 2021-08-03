@@ -19,3 +19,9 @@ nav a {color: white;}
 nav {color: white;}
 
 nav a:hover {background-color: gray;}
+
+nav{
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: gray;
+    }
